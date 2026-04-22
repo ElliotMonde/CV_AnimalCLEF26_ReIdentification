@@ -1,0 +1,6 @@
+pandas
+ultralytics
+open_clip_torch
+scikit-learn
+albumentations
+megadetector
